@@ -14,7 +14,7 @@ A charming, nostalgic theme for Visual Studio Code inspired by classic aesthetic
 
 ## What's New
 
-### 0.1.1
+### 0.1.2
 
 - Initial release
 
