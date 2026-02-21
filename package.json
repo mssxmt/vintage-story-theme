@@ -3,6 +3,10 @@
   "displayName": "retro theme",
   "description": "",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mssxmt/vscode-theme-retro"
+  },
   "publisher": "mssxmt",
   "engines": {
     "vscode": "^1.109.0"
