@@ -1,6 +1,6 @@
 # Vintage Story Theme for VS Code
 
-![Preview](https://raw.githubusercontent.com/mssxmt/vintage-story-theme/main/images/screenshot.png)
+![Preview](https://raw.githubusercontent.com/mssxmt/vintage-story-theme/main/images/vintage-story-theme.png)
 
 A charming, nostalgic theme for Visual Studio Code inspired by classic aesthetics.
 
